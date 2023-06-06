@@ -1,0 +1,56 @@
+.box1{
+	background: lightpink;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	text-align: center;
+	font-size: 2px;
+	display: flex;
+	justify-content: center;
+	border: solid black 1px;
+	border-width: 5px;
+}
+.box2{
+	background: lightpink;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	border: solid black 1px;
+	border-width: 5px;
+}
+.box3{
+	background: lightpink;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	border: solid black 1px;
+	border-width: 5px;
+}
+.box4{
+	background: lightpink;
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	border: solid black 1px;
+	border-width: 5px;
+}
+#main_box{
+	margin-left: 650px;
+	margin-top: 200px;
+}
+body{
+	background-color: hotpink;
+}
+button{
+	background-color: skyblue;
+	border-radius: 4px;
+}
